@@ -27,9 +27,9 @@ How to Run
 
 2) Install the required library web3 by running "pip install web3"
 
-3) Copy the provided script into a Python file (e.g., pulsechain_lp_monitor.py).
+3) Copy the provided script into a Python file (e.g., PulsechainMonitor.py).
 
-4) Run the script using Python "python pulsechain_lp_monitor.py"
+4) Run the script using Python "python PulsechainMonitor.py"
 
 
 The script will start monitoring the Pulsechain network for new LP pair creations and log the relevant information in the "new_pairs_pls.txt" file.
