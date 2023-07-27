@@ -1,4 +1,5 @@
 Pulsechain LP Pair Monitoring Script
+
 This Python script is designed to monitor the creation of current gas (beat) and new liquidity pool (LP) pairs on the Pulsechain network and record relevant information about those pairs in a text file. It utilizes the Web3.py library to interact with the Pulsechain blockchain.
 
 Requirements
